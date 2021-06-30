@@ -1,0 +1,19 @@
+html{
+   text-align: center; 
+   background-color: liner-gradent(#0000FF 0%, #F7FE2E 100%);
+}
+
+h1{
+    font-family: 'Roboto', Gabriola;
+    color: turquoise;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: skyblue;
+}
+
+h2{
+    font-family: 'Roboto', Algerian;
+    color: salmon;
+}
